@@ -3,9 +3,9 @@ pages:
     - Home: index.md
     - Editorial Guide:
         - "dh+lib Review": "editorial-guide/review.md"
-        - "Original Features": "Editorial-Guide/features.md"
-        - "Resources": "Editorial-Guide/resources.md"
-        - "Series": "Editorial-Guide/series.md"
+        - "Original Features": "editorial-guide/features.md"
+        - "Resources": "editorial-guide/resources.md"
+        - "Series": "editorial-guide/series.md"
     - Site Specs:
         - "Hosting": "site-specs/hosting.md"
         - "WordPress": "site-specs/wordpress.md"
