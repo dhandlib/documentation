@@ -1,0 +1,17 @@
+site_name: dh+lib
+pages:
+    - Home: index.md
+    - Editorial Guide:
+        - "dh+lib Review": "editorial-guide/review.md"
+        - "Original Features": "Editorial-Guide/features.md"
+        - "Resources": "Editorial-Guide/resources.md"
+        - "Series": "Editorial-Guide/series.md"
+    - Site Specs:
+        - "Hosting": "site-specs/hosting.md"
+        - "WordPress": "site-specs/wordpress.md"
+    - Community:
+        - "History": "community/history.md"
+        - "Contributors": "community/contributors.md"
+    - About: about.md
+theme: yeti
+    
