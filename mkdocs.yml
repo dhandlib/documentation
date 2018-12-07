@@ -15,5 +15,10 @@ pages:
         - "History": "community/history.md"
         - "Contributors": "community/contributors.md"
     - About: about.md
-theme: yeti
+theme:
+    name: readthedocs
+    highlightjs: true
+    hljs_languages:
+        - yaml
+        - rust
     
