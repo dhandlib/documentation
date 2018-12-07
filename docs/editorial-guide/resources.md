@@ -5,3 +5,4 @@ In September 2014, dh+lib put out a call to crowdsource a list of websites for D
 Individuals fill out the [collaborative spreadsheet](https://docs.google.com/spreadsheets/d/13hZlUCp3Zc5l7vAJyxfpcyIL8lnb4sZhtvW7MzQlHNo/edit#gid=0) with basic information (institution, name of group/center, url, boilerplate description). An editor is automatically notified of changes to the spreadsheet and creates a new link on the dh+lib Registry page. The [Link View plugin](https://wordpress.org/plugins/link-view/) allows us to display notes beneath each link using WordPress’s blogroll feature. 
 
 Updates to the Registry are made weekly. 
+
