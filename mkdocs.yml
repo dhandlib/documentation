@@ -1,7 +1,8 @@
 site_name: dh+lib
 repo_url: https://github.com/dhandlib/documentation
+edit_uri: blob/master/docs
 pages:
-    - Home: index.md
+    - Home: readme.md
     - Editorial Guide:
         - "dh+lib Review": "editorial-guide/review.md"
         - "Original Features": "editorial-guide/features.md"
