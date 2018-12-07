@@ -1,4 +1,5 @@
 site_name: dh+lib
+repo_url: https://github.com/dhandlib/documentation
 pages:
     - Home: index.md
     - Editorial Guide:
